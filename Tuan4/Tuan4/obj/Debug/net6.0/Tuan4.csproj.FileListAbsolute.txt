@@ -1,0 +1,15 @@
+D:\Ky6\ThucTapCNHTTT\Tuan4\Tuan4\bin\Debug\net6.0\Tuan4.exe
+D:\Ky6\ThucTapCNHTTT\Tuan4\Tuan4\bin\Debug\net6.0\Tuan4.deps.json
+D:\Ky6\ThucTapCNHTTT\Tuan4\Tuan4\bin\Debug\net6.0\Tuan4.runtimeconfig.json
+D:\Ky6\ThucTapCNHTTT\Tuan4\Tuan4\bin\Debug\net6.0\Tuan4.dll
+D:\Ky6\ThucTapCNHTTT\Tuan4\Tuan4\bin\Debug\net6.0\Tuan4.pdb
+D:\Ky6\ThucTapCNHTTT\Tuan4\Tuan4\obj\Debug\net6.0\Tuan4.csproj.AssemblyReference.cache
+D:\Ky6\ThucTapCNHTTT\Tuan4\Tuan4\obj\Debug\net6.0\Tuan4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky6\ThucTapCNHTTT\Tuan4\Tuan4\obj\Debug\net6.0\Tuan4.AssemblyInfoInputs.cache
+D:\Ky6\ThucTapCNHTTT\Tuan4\Tuan4\obj\Debug\net6.0\Tuan4.AssemblyInfo.cs
+D:\Ky6\ThucTapCNHTTT\Tuan4\Tuan4\obj\Debug\net6.0\Tuan4.csproj.CoreCompileInputs.cache
+D:\Ky6\ThucTapCNHTTT\Tuan4\Tuan4\obj\Debug\net6.0\Tuan4.dll
+D:\Ky6\ThucTapCNHTTT\Tuan4\Tuan4\obj\Debug\net6.0\refint\Tuan4.dll
+D:\Ky6\ThucTapCNHTTT\Tuan4\Tuan4\obj\Debug\net6.0\Tuan4.pdb
+D:\Ky6\ThucTapCNHTTT\Tuan4\Tuan4\obj\Debug\net6.0\Tuan4.genruntimeconfig.cache
+D:\Ky6\ThucTapCNHTTT\Tuan4\Tuan4\obj\Debug\net6.0\ref\Tuan4.dll
